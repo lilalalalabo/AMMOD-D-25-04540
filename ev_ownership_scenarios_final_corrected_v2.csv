@@ -1,0 +1,16 @@
+Scenario,Year1,Year2,Year3,Year4,Year5,EventType,EventYear
+Negative_Year1,72,96,120,131,144,Negative,1
+Negative_Year2,88,97,120,131,145,Negative,2
+Negative_Year3,88,110,118,132,149,Negative,3
+Negative_Year4,88,110,133,137,152,Negative,4
+Negative_Year5,88,110,133,147,151,Negative,5
+Neutral_Year1,88,110,133,147,173,Neutral,1
+Neutral_Year2,88,110,133,147,173,Neutral,2
+Neutral_Year3,88,110,133,147,173,Neutral,3
+Neutral_Year4,88,110,133,147,173,Neutral,4
+Neutral_Year5,88,110,133,147,173,Neutral,5
+Positive_Year1,116,131,150,165,198,Positive,1
+Positive_Year2,88,147,161,173,198,Positive,2
+Positive_Year3,88,110,163,172,195,Positive,3
+Positive_Year4,88,110,133,174,191,Positive,4
+Positive_Year5,88,110,133,147,185,Positive,5
